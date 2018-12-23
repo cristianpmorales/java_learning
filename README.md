@@ -13,3 +13,14 @@ First project pushed was a traditional "Hello World"
 <p>double: The double data type is a double-precision 64-bit IEEE 754 floating point.</p>
 <p>boolean: The boolean data type has only two possible values: true and false.</p>
 <p>char: The char data type is a single 16-bit Unicode character.</p>
+
+# Switch Cases 
+
+Swith(variable){
+  case 1:
+    //code
+    break;
+  case 2:
+    //code
+    break;
+}
