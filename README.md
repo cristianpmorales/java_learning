@@ -16,11 +16,11 @@ First project pushed was a traditional "Hello World"
 
 # Switch Cases 
 
-Swith(variable){
-  case 1:
-    //code
-    break;
-  case 2:
-    //code
-    break;
-}
+<p>Swith(variable){ </p>
+<p>  case 1: </p>
+<p>    //code </p>
+<p>    break; </p>
+<p>  case 2: </p>
+<p>    //code </p>
+<p>    break; </p>
+} </p>
