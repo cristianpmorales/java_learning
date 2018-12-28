@@ -30,3 +30,11 @@ First project pushed was a traditional "Hello World"
 <p>for (int i = 0; i <= j; i++){</p>
 <p>  //code can be enter here </p>
 <p>}</p>
+
+# While Loop 
+
+while (variable condition){
+  //code is entered here;
+  //Use a break for cases where the loop should stop
+  // do while loops the first condition will have to stop
+}
